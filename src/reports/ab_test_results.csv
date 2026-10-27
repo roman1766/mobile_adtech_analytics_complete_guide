@@ -1,0 +1,2 @@
+control_users,treatment_users,control_mean_user_ctr,treatment_mean_user_ctr,absolute_ctr_difference,relative_ctr_uplift,p_value,confidence_interval_lower,confidence_interval_upper,alpha
+10072,9928,0.04219618745035743,0.053203062046736506,0.011006874596379078,0.2608499786699531,5.337859357438579e-16,0.008346783013650386,0.01366696617910777,0.05
